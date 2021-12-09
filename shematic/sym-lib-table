@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name aa)(type Legacy)(uri D:/Проекты/resonance_inventor/shematic/Symbols/YAAJ_BluePill.lib)(options "")(descr ""))
+  (lib (name shematic-rescue)(type Legacy)(uri ${KIPRJMOD}/shematic-rescue.lib)(options "")(descr ""))
+)
